@@ -2,6 +2,8 @@ team: Leopards
 
 manager: Nora
 
+coach: Oscar
+
 members:
 - Linda
 - William
