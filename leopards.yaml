@@ -9,3 +9,4 @@ members:
 - William
 - David
 - Olivia
+- Evie
