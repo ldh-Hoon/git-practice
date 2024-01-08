@@ -1,6 +1,6 @@
 team: Leopards
 
-manager: Nora
+manager: Dooli
 
 coach: Lupi
 
