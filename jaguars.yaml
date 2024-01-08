@@ -1,0 +1,8 @@
+team: Jaguars
+
+manager: Stanley
+
+members:
+- Caleb
+- Harvey
+- Myles
