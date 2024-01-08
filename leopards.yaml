@@ -10,3 +10,4 @@ members:
 - David
 - Olivia
 - Evie
+- Dongho
