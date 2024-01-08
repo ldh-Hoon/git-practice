@@ -6,3 +6,4 @@ members:
 - Violet
 - Stella
 - Anthony
+- Freddie
